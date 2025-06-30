@@ -1,0 +1,12 @@
+{
+  "name": "unidad-7-nodejs-y-npm",
+  "version": "1.0.0",
+  "description": "Aplicación de consola para registrar planetas favoritos usando Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Tu nombre",
+  "license": "MIT"
+}
